@@ -1,6 +1,10 @@
 shiny
+shinylive
 pandas
 plotly
 seaborn
 shinywidgets
 numpy
+seaborn
+scikit-learn
+faicons
